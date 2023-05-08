@@ -1,2 +1,2 @@
 # AGS-WEB
- Web page dedicated to the state of agusacalientes
+ Web page dedicated to the state of Agusacalientes
