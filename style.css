@@ -68,8 +68,10 @@ h1{
 }
 
 p{
+    text-align:justify;
+    line-height: 1;
     color: #fff;
-    font-size: 11px;
+    font-size: 18px;
     line-height: 15px;
 }
 
